@@ -1,7 +1,7 @@
 <?php
 	$servername = 'localhost';
 	$username = 'root';
-	$password = 'teebams@49464340';
+	$password = '';
 	$dbname = 'school_portal';
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
