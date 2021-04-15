@@ -40,7 +40,7 @@
 			$_SESSION["Oops"] = "Oops!! State of Origin and Local Government must be specified";
 		}
 
-		header("location: http://localhost/ustacky/student-portal.php");
+		header("location: http://localhost/ustacky-capstone-project/student-portal.php");
 	}
 
 ?>
